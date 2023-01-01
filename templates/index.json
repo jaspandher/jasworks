@@ -1,0 +1,8 @@
+{
+    "sections": {
+        "page":{
+            "type": "homepage"
+        }
+    },
+    "order": ["page"]
+}
